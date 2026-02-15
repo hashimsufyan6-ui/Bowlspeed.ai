@@ -1,0 +1,5 @@
+{
+  "name": "BowlSpeed AI",
+  "description": "Professional cricket bowling speed analyzer using computer vision and AI. Upload your bowling video to calculate release speed and analyze technique.",
+  "requestFramePermissions": []
+}
